@@ -1,0 +1,110 @@
+body {
+	background-color: #CCD1D1;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+#container {
+background-color: #EBDEF0;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#menu {
+		background-color: gray;
+		color: white;
+		text-align: center;
+		padding: 6px;
+		overflow: hidden;
+	}
+ul {
+	text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #41EB39 ;
+  	text-decoration: none;
+
+}
+
+#Contact {
+	padding: 10px;
+}
+#Cname{
+	text-align: left;
+color: white;
+	width: 80%;
+  border: 1px solid green;
+  margin: 20px;
+background-color: #6462E7 ;
+
+}
+#Cmail{
+	text-align: left;
+color: white;
+	width: 80%;
+  border: 1px solid green;
+  margin: 20px;
+background-color: #6462E7 ;
+
+}
+#Cadd{
+	text-align: left;
+color: white;
+	width: 80%;
+  border: 1px solid green;
+  margin: 20px;
+background-color: #6462E7 ;
+
+}
+#Cphone{
+	text-align: left;
+color: white;
+	width: 80%;
+  border: 1px solid green;
+  margin: 20px;
+background-color: #6462E7 ;
+
+}
+
+#Cname:hover {
+  background-color: #76EFD9  ;
+  	text-decoration: none;
+  	color: black;
+  }
+#Cmail:hover {
+  background-color: #76EFD9  ;
+  	text-decoration: none;
+  color: black;
+  }
+  #Cadd:hover {
+  background-color:#76EFD9  ;
+  	text-decoration: none;
+  color: black;
+  }
+  #Cphone:hover {
+  background-color: #76EFD9  ;
+  	text-decoration: none;
+  color: black;
+  }

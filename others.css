@@ -1,0 +1,67 @@
+
+
+#TeamArea{
+	background-color: #AEB6BF ;
+column-count: 4;
+  column-gap: 40px;
+ column-width: 100px;
+   column-rule: 1px solid lightblue;
+   column-span: all;
+}
+
+#member1{
+	padding: 25%;
+	float: left;
+	 background-color:#79F466   ;
+	
+}
+#member2{
+	padding: 25%;
+    background-color: #D7A1F2  ;
+	float: left;
+}
+#member3{
+	padding: 25%;
+	float: top;
+	float: left;
+	background-color:#79F466    ;
+}
+#member4{
+	padding: 25%;
+	float: left;
+ background-color: #D7A1F2  ;
+}
+
+#member1:hover {
+  background-color: #D9E544 ;
+  	text-decoration: none;
+  	color: red;
+  	font-weight: bold;
+  }
+  	#member2:hover {
+  background-color: #D9E544 ;
+  	text-decoration: none;
+  	font-weight: bold;
+  	color: red;
+  }
+  	#member3:hover {
+  background-color: #D9E544 ;
+  	text-decoration: none;
+  	font-weight: bold;
+  	color: red;
+  }
+  	#member4:hover {
+  background-color: #D9E544 ;
+  	text-decoration: none;
+  	font-weight: bold;
+  	color: red;
+}
+
+
+
+
+#footer{
+background-color: #F2D7D5;
+padding: 20px;
+text-align: center;
+}

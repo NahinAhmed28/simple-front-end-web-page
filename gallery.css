@@ -1,0 +1,55 @@
+#pAdd {
+background-color: #AEB6BF ;
+column-count: 3;
+  column-gap: 20px;
+ column-width: 30px;
+ columns-height:100px; 
+   column-rule: 1px solid lightblue;
+   column-span: all;
+} 
+
+#add1 {
+	padding: 25%;
+	float: left;
+	
+	
+}
+#add2 {
+	padding: 25%;
+	float: left;
+
+	
+}
+
+#add3 {
+	padding: 25%;
+	float: left;
+	
+}
+
+#add1:hover {
+
+	float: left;
+	border: 10px;
+	border-color: black
+	background-color: #6462E7
+	
+}
+#add2:hover {
+	
+	float: left;
+border: 10px;
+	border-color: black
+	background-color: #6462E7
+		
+}
+
+#add3:hover {
+	
+	float: left;
+	border: 10px;
+	border-color: black
+	background-color: #6462E7
+}
+
+
